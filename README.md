@@ -7,4 +7,5 @@
 - Entonces, lo que sucede es que, todos los píxeles cerca del límite se descartarán dependiendo del tamaño del núcleo. Por lo tanto, el grosor o el tamaño del objeto en primer plano disminuye o simplemente la región blanca disminuye en la imagen. Es útil para eliminar pequeños ruidos blancos (como hemos visto en el capítulo del espacio de color), separar dos objetos conectados, etc.
 ### EJEMPLO
 ![resultado](imagen.JPG)
+- el main.py es la clase principal
 
